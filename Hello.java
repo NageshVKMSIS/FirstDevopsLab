@@ -1,4 +1,4 @@
 Class Hello{
-	int i=10;
+	int i=5;
 	String name="Nags";
 }
