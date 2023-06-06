@@ -1,0 +1,2 @@
+String connectionUrl = "jdbc:sqlserver://172.16.51.44;" +
+		            "databaseName=221047011;trustServerCertificate=true;integratedSecurity=false;user=nagesh;password=nagesh@786";
