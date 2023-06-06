@@ -1,2 +1,3 @@
 String connectionUrl = "jdbc:sqlserver://172.16.51.44;" +
 		            "databaseName=221047011;trustServerCertificate=true;integratedSecurity=false;user=nagesh;password=nagesh@786";
+http://www.java2s.com/Code/Jar/s/Downloadsqljdbc430jar.htm#google_vignette
